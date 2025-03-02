@@ -4,6 +4,7 @@ gem "rails", "~> 8.0.1"
 
 gem "bootsnap", require: false
 gem "cssbundling-rails"
+gem "devise"
 gem "image_processing", "~> 1.2"
 gem "jbuilder"
 gem "jsbundling-rails"
